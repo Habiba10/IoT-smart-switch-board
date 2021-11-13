@@ -1,2 +1,2 @@
-# IoT-smart-switch-board
+# IoT-SMART-SWITCH-BOARD
 The Internet of Things (IoT) is a system that allows devices to be connected and remotely monitored across the Internet. With every enhancement in Internet in terms of speed and bandwidth, IOT (Internet Of things) is taking the market on a new node and knocking the door with new opportunities of inventions. For small areas or confined premises wireless technology is used where all the appliances is connected to a common Wi-Fi network.
